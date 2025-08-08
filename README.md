@@ -4,8 +4,8 @@
 
 <p class="bold-underline">My current projects are:</p>
 <ul>
+   <li>My own personal website, <a href="https://www.jmnorheim.no/">JMNorheim.no</a></li>
   <li>An application to help people learn how different search algorithms work by visualizing them, deployed online <a href="https://galacticpathfinder.com/">here</a></li>
-  <li>Some other secret stuff, TBA :)</li>
 </ul>
 
 <p class="bold-underline">Some of my recent projects include:</p>
