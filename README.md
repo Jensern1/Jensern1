@@ -10,8 +10,8 @@
 
 <p class="bold-underline">Some of my recent projects include:</p>
 <ul>
-  <li>🚘 An internal tool for use in the Norwegian Public Roads Administration (obviously also not public 🙂)</li>
-  <li>📝 An internal tool for use in the norwegian insurance company Fremtind Forsikring (obviously not public 🙂)</li>
+  <li>🚘 An internal tool for use in the Norwegian Public Roads Administration (obviously not public 🙂)</li>
+  <li>📝 An internal tool for use in the norwegian insurance company Fremtind Forsikring (obviously also not public 🙂)</li>
   <li>📱 An app for the UKA student festival in Norway, out now on App Store and Google Play as "UKA"</li>
   <li>🌐 A <a href="https://github.com/jmnorheim/Movi.com" target="_blank" rel="noopener noreferrer">movie database website</a> written in React + TS using GraphQL for queries, TanStack Query for fetching and a custom backend with an Apollo Server and Prisma Database</li>
   <li>🎮 A real-time multiplayer tower defense game written for Android called <a href="https://github.com/SverreNystad/besieged" target="_blank" rel="noopener noreferrer">Besieged<a/> </li>
