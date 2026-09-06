@@ -4,7 +4,7 @@
 
 ### 🚀 Current Projects
 
-* 🤖 Building the operating system for AI-native companies at **Limiting Factor AS**
+* 🤖 Building the operating system to help make Norwegian companies AI-native at **Limiting Factor AS**
 * 🎓 **Skolara** — a platform used by over 700 teachers across Norway
 * 🌐 My personal website: [JMNorheim.no](https://www.jmnorheim.no/)
 
