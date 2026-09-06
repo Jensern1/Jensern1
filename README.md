@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jens Martin Norheim Berget
 
-### 💻 Computer Science student & technologist from Norway 🇳🇴
+### 💻 Computer Science graduate & techno-optimist from Norway 🇳🇴
 
 ### 🚀 Current Projects
 
