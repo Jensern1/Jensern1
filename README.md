@@ -10,7 +10,7 @@
 
 ### 🛠️ Recent Projects
 
-* 🚁 **Kyte Delivery** — drone delivery app for Aviant, as well as the Kyte POS system deployed at four restaurants in Ski, Norway. Aviant operates Europe's second large-scale drone food delivery service
+* 🚁 **Kyte Delivery** — drone delivery app for Aviant, as well as the Kyte POS (Point-of-Sale) system deployed at four restaurants in Ski, Norway. Aviant operates Europe's second large-scale drone food delivery service
 
 ### 📫 How to reach me
 
